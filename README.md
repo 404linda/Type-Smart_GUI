@@ -1,4 +1,6 @@
 # Type-Smart_GUI
+use python 3
+
 this gui version is.
 
 Lightweight (Tkinter built-in)
