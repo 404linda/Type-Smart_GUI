@@ -1,0 +1,1 @@
+THEMES={'light':{'bg':'#fff','fg':'#000','accent':'#07c','good':'#28a745','bad':'#dc3545'},'dark':{'bg':'#222','fg':'#fff','accent':'#0bf','good':'#28a745','bad':'#dc3545'},'neon':{'bg':'#1a1a1a','fg':'#0ff','accent':'#f0f','good':'#28a745','bad':'#ff0066'}}
